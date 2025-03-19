@@ -15,7 +15,7 @@
 ---
 
 ## 🏆 **Hackathon Experience**
-🎖️ **Winner** of [Hackathon Name] at [University Name], where I built an **Event Planner App** using Django. The app streamlined event organization, offering scheduling, notifications, and attendee management with AI-powered features.  
+🎖️ **Winner** of Exhibition Tech Sana’a at Sana'a University, where I built an **Event Planner App** using Django. The app streamlined event organization, offering scheduling, notifications, and attendee management with AI-powered features.  
 
 ---
 
@@ -51,8 +51,8 @@ A Django REST API for an AI-powered quiz platform. Supports creating, assigning,
 ---
 
 ## 📫 **Let's Connect**
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/anas-abdullah-al-ward)  
-- GitHub: [Your GitHub](https://github.com/anas-dev-tech)  
+- LinkedIn: [Click Here](https://www.linkedin.com/in/anas-abdullah-al-ward)  
+- GitHub: [Click Here](https://github.com/anas-dev-tech)  
 
 🔥 **I love building AI-driven applications and collaborating on open-source projects! Let's innovate together.** 🚀  
 
