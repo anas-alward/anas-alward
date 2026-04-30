@@ -1,13 +1,12 @@
 # Hi there! 👋 I'm Anas  
 
-🚀 Passionate **Full-Stack Developer** | AI-Powered Application Enthusiast 🤖  
-💡 Constantly learning & building innovative solutions  
+🚀 Passionate **Backend-focused, Full-Stack Developer** | AI-Powered Application Enthusiast 🤖  
 
 ---
 
 ## 🛠 **Tech Stack**
-- **Backend:** Django | Django REST Framework   
-- **Frontend:** React | Next.js | Alpine.js | HTML | CSS | JavaScript  
+- **Backend:** Django | DRF | FastAPI    
+- **Frontend:** React | Next.js | Tailwindcss  
 - **Database:** PostgreSQL | Redis  
 - **DevOps & Tools:** Docker | Kubernetes | Git | Webpack  
 - **Other:** APIs | Authentication | WebSockets | Microservices  
@@ -20,28 +19,16 @@
 ---
 
 ## 🚀 **My Projects**
-### 🏥 MediPoint - AI-Powered Telemedicine Platform  
-A doctor appointment & medical diagnosis system that leverages AI to assist patients in understanding their symptoms before booking an appointment. Includes dashboards for doctors and admins.  
-🔗 **Live Demo:** MediPoint | 🛠️ **Tech:** Django, DRF, React, Redis, AI  
-
-### 🔹 Simple Social Media Platform  
-A lightweight social media app for users to share posts, interact, and connect with others.  
-🔗 **GitHub Repo**  
-
-### 💬 ChatApp  
-A real-time chat application using WebSockets and Django Channels. Supports 1-on-1 messaging and group chats.  
-🔗 **GitHub Repo**  
-
-### 🛍️ E-commerce Platform  
-A complete Django-powered e-commerce system with product listings, cart, payments & admin management.  
-🔗 **GitHub Repo**  
-
-### 📚 Simple LMS (Learning Management System)  
-A lightweight Learning Management System (LMS) that allows teachers to create courses, upload materials, and track student progress.  
-🔗 **GitHub Repo**  
-
-### 📖 Exam App API  
-A Django REST API for an AI-powered quiz platform. Supports creating, assigning, and managing exams efficiently.  
+- 🛒 Pharmacy Marketplace 
+- 🏫 School Management System
+- 📌 Multi-tenant management for schools management system
+- 🏥 MediPoint - AI-Powered Telemedicine Platform  
+- 📷 Simple Social Media Platform  
+- 🗓️ Event Planner App (Hackathon Winner)
+- 💬 ChatApp  
+- 🛍️ E-commerce Platform  
+- 📚 Simple LMS (Learning Management System)  
+- 📖 Exam App API  
 
 ---
 
@@ -51,8 +38,9 @@ A Django REST API for an AI-powered quiz platform. Supports creating, assigning,
 ---
 
 ## 📫 **Let's Connect**
-- LinkedIn: [Click Here](https://www.linkedin.com/in/anas-abdullah-al-ward)  
-- GitHub: [Click Here](https://github.com/anas-dev-tech)  
+- Portfolio: [alward.dev](https://alward.dev)  
+- LinkedIn: [anas-alward](https://www.linkedin.com/in/anas-alward)  
+- GitHub: [anas-alward](https://github.com/anas-alward)  
 
 🔥 **I love building AI-driven applications and collaborating on open-source projects! Let's innovate together.** 🚀  
 
