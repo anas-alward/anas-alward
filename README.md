@@ -6,7 +6,7 @@
 ## 🛠 Tech Stack
 
 <div style="display: flex; align-items: center; gap: 5px;">
-  <span style="font-weight: bold; font-size: 20px; width: 100px;">PLs :</span>
+  <span style="font-weight: bold; font-size: 24px; width: 100px;">PLs :</span>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
@@ -18,7 +18,7 @@
 <br>
 
 <div style="display: flex; align-items: center; gap: 5px;">
-  <span style="font-weight: bold; font-size: 20px; width: 100px;">Backend :</span>
+  <span style="font-weight: bold; font-size: 24px; width: 100px;">Backend :</span>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
@@ -30,7 +30,7 @@
 <br>
 
 <div style="display: flex; align-items: center; gap: 5px;">
-  <span style="font-weight: bold; font-size: 20px; width: 100px;">Frontend :</span>
+  <span style="font-weight: bold; font-size: 24px; width: 100px;">Frontend :</span>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
@@ -40,7 +40,7 @@
 <br>
 
 <div style="display: flex; align-items: center; gap: 5px;">
-  <span style="font-weight: bold; font-size: 20px; width: 100px;">DBs :</span>
+  <span style="font-weight: bold; font-size: 24px; width: 100px;">DBs :</span>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
@@ -49,7 +49,7 @@
 <br>
 
 <div style="display: flex; align-items: center; gap: 5px;">
-  <span style="font-weight: bold; font-size: 20px; width: 100px;">DevOps :</span>
+  <span style="font-weight: bold; font-size: 24px; width: 100px;">DevOps :</span>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" height="40" alt="Docker"/>
