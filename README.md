@@ -40,7 +40,7 @@
 <br>
 
 <div style="display: flex; align-items: center; gap: 5px;">
-  <span style="font-weight: bold; font-size: 24px; width: 100px;">DBs :</span>
+  <span style="font-weight: bold; font-size: 240px; width: 100px;">DBs :</span>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
