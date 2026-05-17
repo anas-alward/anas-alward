@@ -3,9 +3,6 @@
 🚀 Passionate **Backend-focused, Full-Stack Developer with 3 years of work experience** | AI-Powered Application Enthusiast 🤖
 
 ---
-## 🛠 Tech Stack
-
-## 🛠 Tech Stack
 
 ## 🛠 Tech Stack
 
@@ -17,6 +14,7 @@
 | **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" style="margin-right:8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" style="margin-right:8px;"/> |
 | **DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" style="margin-right:8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" style="margin-right:8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" style="margin-right:8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="35" style="margin-right:8px;"/> |
 | **Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="35" style="margin-right:8px;"/> |
+
 ## 🏆 **Hackathon Experience**
 
 🎖️ **Winner** of Exhibition Tech Sana’a at Sana'a University, where I built an **Event Planner App** using Django. The app streamlined event organization, offering scheduling, notifications, and attendee management with AI-powered features.
